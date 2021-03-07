@@ -1,0 +1,40 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {ngerman}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Abstract}{3}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Assembly}{5}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Sicherheit}{9}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Biblotheken}{9}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}C}{10}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Sicherheit}{10}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Biblotheken}{15}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}C++}{18}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Sicherheit}{18}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Bibliotheken}{19}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}JAVA}{21}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Sicherheit}{21}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Biblotheken}{22}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Python}{24}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1}Sicherheit}{24}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2}Bibliotheken}{25}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Conclusion}{28}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}Quellen}{29}{}%
+\defcounter {refsection}{0}\relax 
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

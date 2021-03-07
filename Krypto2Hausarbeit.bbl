@@ -1,0 +1,233 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{738514}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0b7a3166ad44db8bbd9ccf85770ad30e}{%
+           family={{Cifuentes}},
+           familyi={C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=791fda2672ca10f31dcdf15de2af7a5f}{%
+           family={{Simon}},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4d2f0441a8bac1d9cb2778bf75a734f}{%
+           family={{Fraboulet}},
+           familyi={F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dfa91d7a63ed879af5a2ced229ebe088}
+      \strng{fullhash}{dfa91d7a63ed879af5a2ced229ebe088}
+      \strng{bibnamehash}{dfa91d7a63ed879af5a2ced229ebe088}
+      \strng{authorbibnamehash}{dfa91d7a63ed879af5a2ced229ebe088}
+      \strng{authornamehash}{dfa91d7a63ed879af5a2ced229ebe088}
+      \strng{authorfullhash}{dfa91d7a63ed879af5a2ced229ebe088}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings. International Conference on Software Maintenance (Cat. No. 98CB36272)}
+      \field{title}{Assembly to high-level language translation}
+      \field{year}{1998}
+      \field{pages}{228\bibrangedash 237}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/ICSM.1998.738514
+      \endverb
+    \endentry
+    \entry{1028896}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=337c544f588af0d2202f3da532dea3c8}{%
+           family={{Fetzer}},
+           familyi={F\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a687c4c6627dc91007df69cdba4adc42}{%
+           family={{Zhen Xiao}},
+           familyi={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{cb78354d14fbdd0745bfa519517b5287}
+      \strng{fullhash}{cb78354d14fbdd0745bfa519517b5287}
+      \strng{bibnamehash}{cb78354d14fbdd0745bfa519517b5287}
+      \strng{authorbibnamehash}{cb78354d14fbdd0745bfa519517b5287}
+      \strng{authornamehash}{cb78354d14fbdd0745bfa519517b5287}
+      \strng{authorfullhash}{cb78354d14fbdd0745bfa519517b5287}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings International Conference on Dependable Systems and Networks}
+      \field{title}{An automated approach to increasing the robustness of C libraries}
+      \field{year}{2002}
+      \field{pages}{155\bibrangedash 164}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/DSN.2002.1028896
+      \endverb
+    \endentry
+    \entry{HAMMI2018126}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=915772ee740aa3a0d95d1d0c3feb9204}{%
+           family={Hammi},
+           familyi={H\bibinitperiod},
+           given={Mohamed\bibnamedelima Tahar},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b871a5106c3192b39dd25a9b5421bfe}{%
+           family={Hammi},
+           familyi={H\bibinitperiod},
+           given={Badis},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef9192ee9cb94451070a480d8a1ade7b}{%
+           family={Bellot},
+           familyi={B\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dca237e3e6c500c2f46c386ab06cf291}{%
+           family={Serhrouchni},
+           familyi={S\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{15ec36b46fb97319052fc8d978223973}
+      \strng{fullhash}{7acd2c9c0f5432964596de93b458081a}
+      \strng{bibnamehash}{15ec36b46fb97319052fc8d978223973}
+      \strng{authorbibnamehash}{15ec36b46fb97319052fc8d978223973}
+      \strng{authornamehash}{15ec36b46fb97319052fc8d978223973}
+      \strng{authorfullhash}{7acd2c9c0f5432964596de93b458081a}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There is no doubt that Internet of Things (IoT) occupy a very important role in our daily lives. Indeed, numerous objects that we use every time, are being equipped with electronic devices and protocol suites in order to make them interconnected and connected to the Internet. In IoT, things process and exchange data without human intervention. Therefore, because of this full autonomy, these entities need to recognize and authenticate each other as well as to ensure the integrity of their exchanged data. Otherwise, they will be the target of malicious users and malicious use. Due to the size and other features of IoT, it is almost impossible to create an efficient centralized authentication system. To remedy this limit, in this paper, we propose an original decentralized system called bubbles of trust, which ensures a robust identification and authentication of devices. Furthermore, it protects the data integrity and availability. To achieve such a goal, our approach relies on the security advantages provided by blockchains, and serves to create secure virtual zones (bubbles) where things can identify and trust each other. We also provided a real implementation of our mechanism using the C++ language and Ethereum blockchain. The obtained results prove its ability to satisfy IoT security requirements, its efficiency, and its low cost.}
+      \field{issn}{0167-4048}
+      \field{journaltitle}{Computers & Security}
+      \field{title}{Bubbles of Trust: A decentralized blockchain-based authentication system for IoT}
+      \field{volume}{78}
+      \field{year}{2018}
+      \field{pages}{126\bibrangedash 142}
+      \range{pages}{17}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cose.2018.06.004
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0167404818300890
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0167404818300890
+      \endverb
+      \keyw{IoT,Security,Authentication,Blockchain,Smart city,Ethereum}
+    \endentry
+    \entry{1265452}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8bb2e3fcbc363b4e3aa7352db020c50f}{%
+           family={{Lindquist}},
+           familyi={L\bibinitperiod},
+           given={T.\bibnamedelimi E.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c94e1e2c8f5379d5dd0b9fca1bfec621}{%
+           family={{Diarra}},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=986fc41eec20e59ff29190cb948ce415}{%
+           family={{Millard}},
+           familyi={M\bibinitperiod},
+           given={B.\bibnamedelimi R.},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{38098aa27f7f716a41ae6263cc13e688}
+      \strng{fullhash}{38098aa27f7f716a41ae6263cc13e688}
+      \strng{bibnamehash}{38098aa27f7f716a41ae6263cc13e688}
+      \strng{authorbibnamehash}{38098aa27f7f716a41ae6263cc13e688}
+      \strng{authornamehash}{38098aa27f7f716a41ae6263cc13e688}
+      \strng{authorfullhash}{38098aa27f7f716a41ae6263cc13e688}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{37th Annual Hawaii International Conference on System Sciences, 2004. Proceedings of the}
+      \field{title}{A Java cryptography service provider implementing one-time pad}
+      \field{year}{2004}
+      \field{pages}{6 pp.-}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1109/HICSS.2004.1265452
+      \endverb
+      \warn{\item Range field 'pages' in entry '1265452' is malformed, falling back to literal}
+    \endentry
+    \entry{876288}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f7bd0dd31cca87dba01ca569c9a4ef13}{%
+           family={{Prechelt}},
+           familyi={P\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f7bd0dd31cca87dba01ca569c9a4ef13}
+      \strng{fullhash}{f7bd0dd31cca87dba01ca569c9a4ef13}
+      \strng{bibnamehash}{f7bd0dd31cca87dba01ca569c9a4ef13}
+      \strng{authorbibnamehash}{f7bd0dd31cca87dba01ca569c9a4ef13}
+      \strng{authornamehash}{f7bd0dd31cca87dba01ca569c9a4ef13}
+      \strng{authorfullhash}{f7bd0dd31cca87dba01ca569c9a4ef13}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer}
+      \field{number}{10}
+      \field{title}{An empirical comparison of seven programming languages}
+      \field{volume}{33}
+      \field{year}{2000}
+      \field{pages}{23\bibrangedash 29}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/2.876288
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
