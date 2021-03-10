@@ -556,7 +556,14 @@ Laufzeit ”übersetzt” wird. Sie bietet Objektorientierung mitsamt Datenkapse
 Die Beliebtheit und Verbreitung von Python ist in den letzten
 Jahren rapide gestiegen. Ein Grund dafür ist das, Python ziemlich universell einsetzbar ist! Überwiegend jedoch im Bereich Data Science und AI.\\Python Programme sind plattformunabhängig. Wichtig ist lediglich, dass die im Programm
 verwendeten Bibliotheken auch auf dem Zielsystem installiert sind.\\
-Ein weiterer Vorteil von Python ist die im Vergleich zu anderen Programmiersprachen extrem intuitive Syntax! Diese lässt sich teilweise fast wie pseudo Code lesen was den Einstieg in Python relativ einfach macht!\footnote{https://www.python.org/}
+Ein weiterer Vorteil von Python ist die im Vergleich zu anderen Programmiersprachen extrem intuitive Syntax! Diese lässt sich teilweise fast wie pseudo Code lesen was den Einstieg in Python relativ einfach macht!\footnote{https://www.python.org/}\\
+Ein weiterer großer Vorteil der Sprache ist die Kompaktheit des Codes. Durch Konstrukte wie List-Comprehensions oder map() und filter() lassen sich Software-Lösungen oftmals in einer oder wenigen Zeilen Code schreiben.\\
+Folgendes Beispiel implementiert Quick-sort in einer einzigen Zeile Code:
+\begin{verbatim}
+lambda L: [] if L==[] else 
+qsort([x for x in L[1:] if x< L[0]]) + L[0:1] + qsort([x for x in L[1:] if x>=L[0]])
+\end{verbatim}
+
 
 \subsection{Sicherheit}
 In 
