@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.2.5)  13 FEB 2021 23:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.2.27)  10 MAR 2021 18:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -216,10 +216,10 @@ Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@posthook=\toks17
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2020/12/16 3.52 The Babel package
+Package: babel 2021/01/26 3.53 The Babel package
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2020/12/16 3.52 Babel common definitions
+File: babel.def 2021/01/26 3.53 Babel common definitions
 \babel@savecnt=\count186
 \U@D=\dimen139
 \l@babelnohyphens=\language86
@@ -654,8 +654,8 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 26
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count402
+File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count402
 \l__pdf_internal_box=\box53
 )
 (./Krypto2Hausarbeit.aux)
@@ -971,86 +971,92 @@ Overfull \hbox (33.51929pt too wide) in paragraph at lines 532--532
 ebsmodi angewand![] 
  []
 
-[22] [23] [24]
-Overfull \hbox (69.06898pt too wide) in paragraph at lines 587--587
+[22] [23]
+Overfull \hbox (70.5693pt too wide) in paragraph at lines 565--565
+[]\T1/lmtt/m/n/12 qsort([x for x in L[1:] if x< L[0]]) + L[0:1] + qsort([x for 
+x in L[1:] if x>=L[0]])[] 
+ []
+
+[24]
+Overfull \hbox (69.06898pt too wide) in paragraph at lines 594--594
  []\T1/lmtt/m/n/12 #Die Datenübergabe muss in bytes erfolgen. Das 'b' im tuple 
 stellt dies sicher.[] 
  []
 
 
-Overfull \hbox (12.73566pt too wide) in paragraph at lines 590--600
+Overfull \hbox (12.73566pt too wide) in paragraph at lines 597--607
 []\T1/lmr/bx/n/12 PyCrypto\T1/lmr/m/n/12 : Samm-lung aus si-che-ren Has-h-funk-
 tio-nen und ei-ner Viel-zahl kryptographi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 590--600
+Underfull \hbox (badness 10000) in paragraph at lines 597--607
 
  []
 
 [25]
-Overfull \hbox (10.33865pt too wide) in paragraph at lines 618--630
+Overfull \hbox (10.33865pt too wide) in paragraph at lines 625--637
 \T1/lmr/m/n/12 zur Ver-wen-dung des NaCl-Verschlüsselungssystems. Die-ses er-mö
 g-licht das gleichzeiti-
  []
 
 [26]
-Overfull \hbox (0.14378pt too wide) in paragraph at lines 657--658
+Overfull \hbox (0.14378pt too wide) in paragraph at lines 664--665
 []\T1/lmr/bx/n/12 hashlib \T1/lmr/m/n/12 Bein-hal-tet gröÿ-ten-teil Ha-shing Al
 -go-rith-men der SHA Fa-mi-lie wie SHA224,
  []
 
 [27] [28]
-Overfull \hbox (860.9697pt too wide) in paragraph at lines 787--787
+Overfull \hbox (860.9697pt too wide) in paragraph at lines 795--795
 []\T1/lmtt/m/n/12 abstract="In diesem Kapitel pr{\"a}sentieren wir wichtige Gru
 ndlagen: Ganze Zahlen, elementare Wahrscheinlichkeitstheorie, elementare Komple
 xit{\"a}tstheorie sowie grundlegende Algorithmen f{\"u}r ganze Zahlen.",[] 
  []
 
 
-Overfull \hbox (138.48033pt too wide) in paragraph at lines 787--787
+Overfull \hbox (138.48033pt too wide) in paragraph at lines 795--795
 []\T1/lmtt/m/n/12 booktitle={Proceedings. International Conference on Software 
 Maintenance (Cat. No. 98CB36272)},[] 
  []
 
 
-Overfull \hbox (70.5693pt too wide) in paragraph at lines 787--787
+Overfull \hbox (70.5693pt too wide) in paragraph at lines 795--795
 []\T1/lmtt/m/n/12 booktitle={Proceedings International Conference on Dependable
  Systems and Networks},[] 
  []
 
 
-Overfull \hbox (8.81927pt too wide) in paragraph at lines 787--787
+Overfull \hbox (8.81927pt too wide) in paragraph at lines 795--795
 []\T1/lmtt/m/n/12 title={An automated approach to increasing the robustness of 
 C libraries},[] 
  []
 
 [29]
-Overfull \hbox (113.79433pt too wide) in paragraph at lines 787--787
+Overfull \hbox (113.79433pt too wide) in paragraph at lines 795--795
 []\T1/lmtt/m/n/12 title = {Bubbles of Trust: A decentralized blockchain-based a
 uthentication system for IoT},[] 
  []
 
 
-Overfull \hbox (21.15527pt too wide) in paragraph at lines 787--787
+Overfull \hbox (21.15527pt too wide) in paragraph at lines 795--795
 []\T1/lmtt/m/n/12 url = {https://www.sciencedirect.com/science/article/pii/S016
 7404818300890},[] 
  []
 
 
-Overfull \hbox (95.26932pt too wide) in paragraph at lines 787--787
+Overfull \hbox (95.26932pt too wide) in paragraph at lines 795--795
 []\T1/lmtt/m/n/12 author = {Mohamed Tahar Hammi and Badis Hammi and Patrick Bel
 lot and Ahmed Serhrouchni},[] 
  []
 
 
-Overfull \hbox (27.34428pt too wide) in paragraph at lines 787--787
+Overfull \hbox (27.34428pt too wide) in paragraph at lines 795--795
 []\T1/lmtt/m/n/12 keywords = {IoT, Security, Authentication, Blockchain, Smart 
 city, Ethereum},[] 
  []
 
 
-Overfull \hbox (7993.09822pt too wide) in paragraph at lines 787--787
+Overfull \hbox (7993.09822pt too wide) in paragraph at lines 795--795
 []\T1/lmtt/m/n/12 abstract = {There is no doubt that Internet of Things (IoT) o
 ccupy a very important role in our daily lives. Indeed, numerous objects that w
 e use every time, are being equipped with electronic devices and protocol suite
@@ -1072,7 +1078,7 @@ ements, its efficiency, and its low cost.}[]
  []
 
 
-Overfull \hbox (175.54436pt too wide) in paragraph at lines 787--787
+Overfull \hbox (175.54436pt too wide) in paragraph at lines 795--795
 []\T1/lmtt/m/n/12 booktitle={37th Annual Hawaii International Conference on Sys
 tem Sciences, 2004. Proceedings of the},[] 
  []
@@ -1083,10 +1089,10 @@ Package logreq Info: Writing requests to 'Krypto2Hausarbeit.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15450 strings out of 479304
- 286872 string characters out of 5869780
- 1196569 words of memory out of 5000000
- 32426 multiletter control sequences out of 15000+600000
+ 15471 strings out of 479304
+ 287414 string characters out of 5869779
+ 1196870 words of memory out of 5000000
+ 32447 multiletter control sequences out of 15000+600000
  465350 words of font info for 78 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  111i,8n,116p,10612b,2241s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1097,7 +1103,7 @@ e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
 fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/t
 ype1/public/lm/lmtt12.pfb>
-Output written on Krypto2Hausarbeit.pdf (31 pages, 304875 bytes).
+Output written on Krypto2Hausarbeit.pdf (31 pages, 305265 bytes).
 PDF statistics:
  141 PDF objects out of 1000 (max. 8388607)
  98 compressed objects within 1 object stream
